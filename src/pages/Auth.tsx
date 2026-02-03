@@ -63,7 +63,7 @@ const Auth = () => {
           {/* Logo */}
           <div className="flex items-center gap-3 mb-8">
             <div className="h-12 w-12 rounded-xl hero-gradient flex items-center justify-center">
-              <Award className="h-6 w-6 text-accent" />
+              <img src="/NP1.png" alt="Logo" className="" />
             </div>
             <div>
               <h1 className="font-display text-2xl font-semibold text-foreground">
