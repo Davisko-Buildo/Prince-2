@@ -35,7 +35,7 @@ const Index = () => {
             {/* Logo */}
             <div className="flex items-center gap-3 mb-8 animate-fade-in">
               <div className="h-14 w-14 rounded-xl hero-gradient flex items-center justify-center">
-                <img src="/NP1.png" alt="Logo" className="h-7 w-7 text-accent" />
+                <img src="/NP1.png" alt="Logo" className=" text-accent" />
               </div>
               <div>
                 <h1 className="font-display text-2xl font-semibold text-foreground">

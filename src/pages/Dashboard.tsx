@@ -63,7 +63,7 @@ const Dashboard = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <div className="h-10 w-10 rounded-lg hero-gradient flex items-center justify-center">
-              <img src="/NP1.png" alt="Logo" className="h-8 w-8 text-accent" />
+              <img src="/NP1.png" alt="Logo" className=" text-accent" />
               </div>
               <div>
                 <h1 className="font-display text-xl font-semibold text-foreground">
